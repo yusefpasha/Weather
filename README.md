@@ -1,6 +1,8 @@
 # Weather Android Project
 
 Weather application, a simple and basic Project for composing practice.
+Application receives and displays only the information of the geographical area in which you are present in 24 hours.
+The Project was implemented to test JetPack-Compos and MVI architecture.
 
 
 ### Technologies
